@@ -1,0 +1,6 @@
+dvc 
+dvc-gdrive
+scikit-learn
+pandas
+matlotlib
+joblib 
