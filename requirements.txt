@@ -2,5 +2,5 @@ dvc
 dvc-gdrive
 scikit-learn
 pandas
-matlotlib
+matplotlib
 joblib 
